@@ -7,7 +7,7 @@ import java.util.List;
  * @author fran
  * @version 1.0
  */
-class Contacto {
+public class Contacto {
     private String name;
     private List<String> phones;
 
